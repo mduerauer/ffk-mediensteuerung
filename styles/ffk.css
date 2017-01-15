@@ -1,0 +1,27 @@
+body {
+	background-color: #990000;
+	font-family: Helvetica, Arial, Sans-Serif;
+	color: white;
+}
+
+.container {
+
+}
+
+#logo {
+	margin: 0 auto;
+	width: 200px;
+	height: 200px;
+	background-image: url('../images/logo.svg');
+	background-repeat: no-repeat;
+	background-position: center; 
+	background-size: 200px;
+}
+
+#text {
+	text-align: center;
+}
+
+a {
+	color: white;
+}
